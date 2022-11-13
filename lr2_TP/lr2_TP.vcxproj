@@ -141,11 +141,13 @@
   <ItemGroup>
     <ClCompile Include="Filethread.cpp" />
     <ClCompile Include="lr2_TP.cpp" />
+    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="My_List.cpp" />
     <ClCompile Include="Price.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Filethread.h" />
+    <ClInclude Include="Menu.h" />
     <ClInclude Include="My_List.h" />
     <ClInclude Include="Price.h" />
   </ItemGroup>
